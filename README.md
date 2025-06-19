@@ -61,7 +61,7 @@ jupyter notebook minor_api.ipynb
  
 👨‍💻 Author
 
-**Saunak **
+**Saunak**
 🔗 GitHub: https://github.com/Saunak11
 
 **Ayan Paul**
