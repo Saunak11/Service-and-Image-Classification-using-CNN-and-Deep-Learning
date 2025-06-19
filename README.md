@@ -59,12 +59,16 @@ jupyter notebook minor_api.ipynb
 - ♻️ Implement transfer learning
 - 🌐 Deploy model via API or web app
 👨‍💻 Author
+
 **Saunak **
 🔗 GitHub: https://github.com/Saunak11
+
 **Ayan Paul**
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Ayan-2002-paul
+
 **Swapnanil**
 🔗 GitHub: https://github.com/SWAPNANIL-BERA
+
 📝 License
 This project is licensed under the MIT License 📄
 
