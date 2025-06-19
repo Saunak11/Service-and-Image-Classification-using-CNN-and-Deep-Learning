@@ -58,6 +58,7 @@ jupyter notebook minor_api.ipynb
 - 🎨 Use data augmentation
 - ♻️ Implement transfer learning
 - 🌐 Deploy model via API or web app
+ 
 👨‍💻 Author
 
 **Saunak **
