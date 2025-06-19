@@ -59,10 +59,10 @@ jupyter notebook minor_api.ipynb
 - ♻️ Implement transfer learning
 - 🌐 Deploy model via API or web app
 👨‍💻 Author
-**Saunak**
+**Saunak **
 🔗 GitHub: https://github.com/Saunak11
-**Ritoja**
-🔗 GitHub: https://github.com/RITOJAPODDAR
+**Ayan Paul**
+🔗 GitHub: 
 **Swapnanil**
 🔗 GitHub: https://github.com/SWAPNANIL-BERA
 📝 License
